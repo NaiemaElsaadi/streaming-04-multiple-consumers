@@ -62,6 +62,6 @@ Which worker gets which tasks?
 See a running example with at least 3 concurrent process windows here:
 
 
-![MacExample](Screenshot v1.png)<br>
-![MacExample](Screenshot v2.png)<br>
-![MacExample](Screenshot v3.png)<br>
+![My Screenshot](v1.png)<br>
+![My Screenshot](v2.png)<br>
+![My Screenshot](v3.png)<br>
