@@ -1,4 +1,6 @@
 # streaming-04-multiple-consumers
+ Naiema Elsaadi
+ September 5, 2023
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
