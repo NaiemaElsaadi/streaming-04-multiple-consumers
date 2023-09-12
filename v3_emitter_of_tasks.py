@@ -39,6 +39,7 @@ def send_message(host: str, queue_name: str, message: str):
     host = "localhost"
     port = 9999
     address_tuple = (host, port)
+   
 
     # use the socket constructor to create a socket object we'll call sock
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) 

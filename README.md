@@ -57,7 +57,7 @@ Which worker gets which tasks?
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 
 
-## Screenshot
+## Multiple Terminals Screenshots
 
 See a running example with at least 3 concurrent process windows here:
 
@@ -65,3 +65,9 @@ See a running example with at least 3 concurrent process windows here:
 ![My Screenshot](v1.png)<br>
 ![My Screenshot](v2.png)<br>
 ![My Screenshot](v3.png)<br>
+
+## RabbitMQ WebInterface screenshot:
+![My Screenshot](R1.png)<br>
+![My Screenshot](R2.png)<br>
+![My Screenshot](R3.png)<br>
+
